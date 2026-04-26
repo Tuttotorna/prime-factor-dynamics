@@ -184,9 +184,10 @@ Empirical result:
 
 Structural interpretation:
 
-T compresses many low-complexity multiplicative structures through the channel:
+T compresses many low-complexity multiplicative structures through numerical channels such as:
 
-{8, 9} → 6 → 5
+8 → 6 → 5  
+9 → 6 → 5
 
 ---
 
