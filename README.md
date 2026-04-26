@@ -1,6 +1,6 @@
 # Prime-Factor Dynamics
 
-Discrete dynamical systems on natural numbers induced by prime-factor transformations.
+Exploring how simple prime-factor transformations generate nontrivial dynamical structures on ℕ.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19783160.svg)](https://doi.org/10.5281/zenodo.19783160)
 
