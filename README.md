@@ -1,5 +1,3 @@
-Sostituisci tutto README.md con questo:
-
 # Prime-Factor Dynamics
 
 Discrete dynamical systems on natural numbers induced by prime-factor transformations.
